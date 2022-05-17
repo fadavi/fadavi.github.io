@@ -106,3 +106,5 @@ deploy:
   repo: 'git@github.com:fadavi/fadavi.github.io'
   branch: gh-pages
   # message: 'Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}'
+
+disqus_shortname: fadavi
